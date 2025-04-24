@@ -1,2 +1,1 @@
-# Demo3
-Polytechnic College
+polytechnic College
